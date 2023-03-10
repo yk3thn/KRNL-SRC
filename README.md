@@ -1,7 +1,7 @@
 # KRNL-SRC
 Source for the free Roblox script injector "KRNL"
 
-# NOTE: THIS IS ONLY THE "krnl.exe" THIS DOES NOT INCLUDE THE "krnl.dll" or "injector.dll" ALSO NOTE: KRNL has a VERY poor score on VirusTotal so be careful and use it at your own risk
+# NOTE: THIS IS ONLY THE "krnl.exe" THIS DOES NOT INCLUDE THE "krnl.dll" or "injector.dll" AND KRNL has a VERY poor score on VirusTotal so be careful and use it at your own risk
 
 ## VIRUS TOTAL:
 "krnl.exe"        41 VENDORS   -->   [Click Here](https://www.virustotal.com/gui/file/16a708453fef15c6949ef6278020b9df440bb5e93d2b644dacc37729f3e6c09f)
