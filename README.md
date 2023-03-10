@@ -15,5 +15,6 @@ Source for the free Roblox script injector "KRNL"
 https://wearedevs.net/d/Krnl
 
 This also uses Bunifu and ScintillaNET which are NuGet packages so they are completely safe
+------
 "Bunifu_UI_v1.5.3.dll"
 "ScintillaNET.dll"
